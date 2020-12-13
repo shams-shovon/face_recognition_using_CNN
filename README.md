@@ -1,6 +1,6 @@
 # Project Description-
 * At first, The system create dataset with name & facial image. 
-* Pre-process the image with 300x300 dimension.
+* Pre-process the image with 400x400 dimension.
 * Train these image for getting accurate output.
 * The system is trained using **VGG16** convolutional neural network model.
 
